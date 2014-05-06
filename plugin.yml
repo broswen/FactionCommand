@@ -1,0 +1,13 @@
+name: FactionCommand
+version: 1.0
+author: broswen
+main: me.broswen.factioncommand.FactionCommand
+
+commands:
+  factioncommand:
+    description: the main command.
+   
+permissions:
+  factioncommand.fc:
+    description: allows you to use the main command
+    default: op
